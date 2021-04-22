@@ -1,5 +1,11 @@
 # VM.Lab3
 
+[![GitHub stars][stars-shield]][stars-url]
+[![GitHub issues][issues-shield]][issues-url]
+[![GitHub][license-shield]][license-url]
+![GitHub repo size](https://img.shields.io/github/repo-size/KirillShakhov/VM.Lab3)
+![GitHub last commit](https://img.shields.io/github/last-commit/KirillShakhov/VM.Lab3)
+
 Лабораторная работа 3. «Численное интегрирование»
 -------------------------------------------------
 Вариант: Метод прямоугольников, Метод трапеций
@@ -13,13 +19,6 @@
 TAGS: Нахождение интеграла методом прямоугольников(левых, правых, средних) Java.
 Нахождение интеграла методом трапеций Java. Расчет погрешности правилом Рунге Java.
 Нахождение разрывов функции Java. Разделение функции на промежутки Java.
-
-[![GitHub stars][stars-shield]][stars-url]
-[![GitHub issues][issues-shield]][issues-url]
-[![GitHub][license-shield]][license-url]
-![GitHub repo size](https://img.shields.io/github/repo-size/KirillShakhov/VM.Lab3)
-![GitHub last commit](https://img.shields.io/github/last-commit/KirillShakhov/VM.Lab3)
-
 
 
 [stars-shield]: https://img.shields.io/github/stars/KirillShakhov/VM.Lab3?style=social
