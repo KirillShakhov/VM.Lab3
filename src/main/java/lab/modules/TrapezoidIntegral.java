@@ -73,6 +73,7 @@ public class TrapezoidIntegral {
             return Double.isInfinite(x) ? x : Double.NaN;
         }
     }
+    
     static Double integral(IFunc func, double a, double b, double step_count) {
         double sum = 0, step;
         //Проверка шага
